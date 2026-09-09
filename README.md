@@ -1,16 +1,37 @@
-## Hi there 👋
+# Gabriel Costa
 
-<!--
-**gabrielcosta12867/gabrielcosta12867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Back-end Developer
 
-Here are some ideas to get you started:
+Desenvolvedor focado na construção de aplicações, APIs e sistemas,
+buscando criar soluções eficientes, organizadas e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência com desenvolvimento web e também com desenvolvimento
+de sistemas e recursos para FiveM utilizando Lua.
+
+---
+
+### 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,lua,mysql,html,css,git,github,vscode" />
+</p>
+
+### 💻 Áreas de atuação
+
+- Desenvolvimento Back-end
+- APIs e integrações
+- Bancos de dados
+- Desenvolvimento Web
+- Desenvolvimento de sistemas em Lua
+- FiveM / QBCore / Qbox
+
+### 🚀 Atualmente
+
+Aprimorando meus conhecimentos em desenvolvimento Back-end e trabalhando
+em projetos envolvendo aplicações web, APIs e sistemas personalizados.
+
+---
+
+### 📫 Contato
+
+Aberto a projetos, trabalhos freelance e oportunidades de desenvolvimento.
